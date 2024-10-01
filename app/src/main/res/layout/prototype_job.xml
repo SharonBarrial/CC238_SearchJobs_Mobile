@@ -57,8 +57,6 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:contentDescription="@string/imagen_referncial"
-            android:background="#D32F2F"
-            app:tint="#FFF3E0"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:srcCompat="@tools:sample/avatars" />
